@@ -1,0 +1,9 @@
+output/
+tests/
+test/
+test_outputs/
+__pycache__/
+*.bin
+*.exe
+*.obj
+*.pyc
