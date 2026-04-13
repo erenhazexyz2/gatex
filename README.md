@@ -1,4 +1,4 @@
-# Gatex
+# GateX
 
 Polymorphic shellcode loader generator. Give it raw shellcode, it encrypts it and spits out a .c file with random variable names, encrypted strings, junk code, decoys etc. Every run = completely different output. x64 Windows only
 
@@ -84,7 +84,3 @@ Add `-lbcrypt` / `bcrypt.lib` when using AES, HMAC, `--stealth` or `--env-keying
 ## Disclaimer
 
 For educational and authorized security research only. Not responsible for misuse
-
-## Contact
-
-Discord: `eren_._z`
